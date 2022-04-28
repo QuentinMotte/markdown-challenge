@@ -43,4 +43,4 @@ _Albert Einstein_
 
 https://github.com/Tatooine93
 
-[<< previous](https://github.com/DorianMairy)||Quentin|| [next >>](https://github.com/Tatooine93/markdown-challenge)
+[<< previous](https://github.com/DorianMairy) || Quentin || [next >>](https://github.com/Tatooine93/markdown-challenge)
