@@ -9,8 +9,6 @@ _Albert Einstein_
 
 ## "Junior web developer"
 
----
-
 |                        |                        |
 | ---------------------- | ---------------------- |
 | **Birthday**           | 05/02                  |
@@ -40,7 +38,5 @@ _Albert Einstein_
 -   _Always be on time_
 
 ## A funny story
-
-https://github.com/Tatooine93
 
 [<< previous](https://github.com/DorianMairy) || Quentin || [next >>](https://github.com/Tatooine93/markdown-challenge)
